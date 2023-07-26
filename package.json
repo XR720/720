@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Demo of the Simple Virtual Tour that shows all the potential of this application",
+  "main": "main.js",
+  "author": "admin",
+  "scripts": {
+    "start": "electron ."
+  }
+}
